@@ -1,5 +1,7 @@
 {
     "name": "nw-demo",
-    "main": "index.html"
+    "main": "",
+    "inject-js-start" : "main.js",
+    "single-instance" : "true"
 }
 
