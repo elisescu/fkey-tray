@@ -2,6 +2,15 @@
     "name": "nw-demo",
     "main": "",
     "inject-js-start" : "main.js",
-    "single-instance" : "true"
+    "single-instance" : "true",
+	"window" : {
+		"title" : "FinalKey",
+		"always-on-top" : false,
+		"show" : false,
+		"toolbar" : false,
+		"show_in_taskbar" : false,
+		"focus" : true,
+		"transparent" : false
+	}	
 }
 
